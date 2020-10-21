@@ -1,0 +1,6 @@
+CONTROLS 
+
+W | UP ARROWKEY		| Moves player up 
+A | LEFT ARROWKEY	| Moves player to the left 
+S | DOWN ARROWKEY	| Moves player down
+D | RIGHT ARROWKEY	| Moves player to the right 
